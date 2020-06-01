@@ -1,1 +1,1 @@
-![Image of Kenneth](./me.jpeg)
+![Image of Kenneth](../me.jpeg)
